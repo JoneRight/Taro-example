@@ -1,0 +1,11 @@
+@import '@/style/base.scss';
+
+.index {
+  color: $gray;
+}
+
+.cover-bg {
+  width: 100px;
+  height: 100px;
+  background: url('http://idiy.haier.com/upload/test/7f77733c-6812-448d-9b24-414dcbf68f66.jpg') center/100% 100% no-repeat;
+}
